@@ -8,13 +8,6 @@ Working at the intersection of **machine learning, physics, and real-world syste
 
 ---
 
-## 🎓 Education
-
-BTech CSE (AI/ML) @ SRM Institute of Science and Technology
-CGPA: 9.84
-
----
-
 ## 🚀 What I Do
 
 * Design **physics-informed ML models** for scientific and engineering systems

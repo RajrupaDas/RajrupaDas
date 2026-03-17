@@ -37,28 +37,12 @@ CGPA: 9.84
 
 ---
 
-## ⚙️ Experience
-
-**Embedded Systems Developer**
-RUDRA Mars Rover Team
-
-* Reduced lateral tracking error by 70% using localization + sliding mode control
-* 5th place internationally at IRC 2024
-
-**AI/ML Intern**
-Labmentix Pvt. Ltd.
-
-* Built CNN-LSTM anomaly detection system
-* 92% fraud detection with <0.5% false positives
-
----
-
 ## 🛠 Tech Stack
 
-**Languages:** Python, C++, Java, MATLAB, Embedded C
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras
-**Scientific:** SciPy, Astropy, Poliastro
-**Other:** Qiskit, Linux, Embedded Systems
+-- **Languages:** Python, C++, Java, MATLAB, Embedded C
+-- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras
+-- **Scientific:** SciPy, Astropy, Poliastro
+-- **Other:** Qiskit, Linux, Embedded Systems
 
 ---
 

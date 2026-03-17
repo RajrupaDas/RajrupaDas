@@ -39,10 +39,13 @@ CGPA: 9.84
 
 ## 🛠 Tech Stack
 
--- **Languages:** Python, C++, Java, MATLAB, Embedded C
--- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras
--- **Scientific:** SciPy, Astropy, Poliastro
--- **Other:** Qiskit, Linux, Embedded Systems
+- **Languages:** Python, C++, Java, MATLAB, Embedded C
+
+- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras
+
+- **Scientific:** SciPy, Astropy, Poliastro
+
+- **Other:** Qiskit, Linux, Embedded Systems
 
 ---
 

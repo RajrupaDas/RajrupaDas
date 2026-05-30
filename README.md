@@ -1,53 +1,56 @@
+“**He was broken before a frozen god and he will never find a way.**”
+— Cormac McCarthy
+
+---
+
 # 👋 Hey, I'm Rajrupa
 
-I build systems that think under constraints.
+I work on **scientific machine learning systems for physical reality modeling**—where learning meets equations, and data meets dynamics.
 
-## 🔧 AI | Scientific ML | Embedded Systems
+## 🔬 Focus Areas
 
-Working at the intersection of **machine learning, physics, and real-world systems**. I’m particularly interested in **physics-informed learning, inverse problems, and computational modeling** for complex systems.
+* 🌌 **Astrophysical inference & orbital dynamics**
+  Learning-driven modeling of gravitational systems, orbital perturbations, and latent structure in astrophysical data
+
+* 🧠 **Physics-Informed Neural Networks (PINNs)**
+  Embedding governing laws directly into neural architectures for better generalization in sparse-data regimes
+
+* 📈 **Inverse problems in complex systems**
+  Parameter recovery, state estimation, and structure discovery from indirect or noisy observations
+
+* ⚛️ **Early-stage quantum ML**
+  Exploring quantum-inspired models and variational formulations for learning problems (foundational / experimental)
 
 ---
 
-## 🚀 What I Do
+## 🧪 Current Direction
 
-* Design **physics-informed ML models** for scientific and engineering systems
-* Build **hybrid models** combining deep learning with governing equations
-* Work on **embedded systems and control** for autonomous platforms
+Building hybrid frameworks that combine:
 
----
+* differential equations + neural approximators
+* symplectic / geometric structure + deep learning
+* data-driven inference + physical priors
 
-## 🧠 Current Work
-
-* 🌌 **Dark Matter Halo Inference**
-  Hybrid PINN + Grover framework for parameter estimation from galaxy rotation curves
-
-* 🛰️ **HOPE: Hybrid Orbit Prediction Engine**
-  Physics-informed LSTM modeling orbital perturbations beyond classical mechanics
-  → 87% improvement in prediction accuracy
-
-* ⚡ **Short Term Load Forecasting**
-  GNN + LSTM hybrid model with 1.3% MAPE (ANTIC Springer 2025)
+with a strong bias toward **physically consistent prediction systems rather than black-box fitting**.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, C++, Java, MATLAB, Embedded C
-
-- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras
-
-- **Scientific:** SciPy, Astropy, Poliastro
-
-- **Other:** Qiskit, Linux, Embedded Systems
+* **Languages:** Python, C++
+* **ML / Scientific ML:** PyTorch, JAX (exploring), SciPy
+* **Physics / Astro tooling:** NumPy, Astropy, custom simulation stacks
+* **Math tooling:** symbolic + numerical modeling workflows
 
 ---
 
-## 🧩 Interests
+## 🧭 Interests
 
 * Scientific Machine Learning
-* Astrophysics & Orbital Dynamics
-* Physics-Informed Neural Networks
-* Quantum Computing
+* Computational Astrophysics
+* Dynamical Systems & Geometric Integration
+* Physics-guided Deep Learning
+* Quantum-inspired computation (early exploration stage)
 
 ---
 
@@ -55,8 +58,3 @@ Working at the intersection of **machine learning, physics, and real-world syste
 
 📧 [rajrupadas6@gmail.com](mailto:rajrupadas6@gmail.com)
 📍 Chennai, India
-
----
-
-"He was broken before a frozen god and he will never find a way."
-~Cormac McArthy

@@ -1,4 +1,4 @@
-“**He was broken before a frozen god and he will never find a way.**”
+“**He is broken before a frozen god and he will never find his way.**”
 — Cormac McCarthy
 
 ---
